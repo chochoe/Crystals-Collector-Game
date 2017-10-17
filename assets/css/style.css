@@ -1,0 +1,71 @@
+.header {
+	background: #cd853f;
+	color: white;
+	width: 250px;
+	text-align: center;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	margin-bottom: 10px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+html {
+	background: url(../images/restaurant.png)
+}
+
+.body {
+	color: green;
+	background: #ffebcd;
+	width: 395px;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	margin-bottom: 10px;
+	padding-right: 10px;
+}
+
+.random-number {
+	color: #32cd32;
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+
+.game-stats {
+	background: #00ffff;
+	float: left;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 15px;
+}
+
+.score-head {
+	background: #008b8b;
+	float: left;
+	color: white;
+/*	font-weight: bold;*/
+	padding-left: 5px;
+	width: 180px;
+	margin-top: 0px;
+/*	height: 40px;*/
+	border-top: -15px;
+}
+
+body {
+	max-width: 410px;
+}
+
+.ruby, .blue-crystal, .topaz, .emerald {
+	height: 70px;
+}
+
+.ruby, .blue-crystal {
+	width: 70px;
+}
+
+.score-top {
+	margin: 5px;
+	font-size: 14px;
+}
